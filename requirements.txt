@@ -1,0 +1,9 @@
+pandas
+numpy==1.26.4
+matplotlib
+seaborn
+statsmodels
+scikit-learn
+pmdarima
+ruptures
+influxdb-client
